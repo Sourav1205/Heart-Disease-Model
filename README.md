@@ -4,5 +4,4 @@ We used a heart dataset in which  13 independent features are given and we have 
 
 
 
-##Appendix
 In this classification model we used different algorithms and compared their accuracies. The algorithms used are - KNN, Decision Tree and Naive Bayes.
